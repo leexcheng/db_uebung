@@ -1,0 +1,25 @@
+body{
+    background-color: limegreen;
+    text-align: left;
+    align-items: left;
+ /*   display: flex;
+    align-items: center;
+    justify-content: center;*/
+
+    color: white;
+
+}
+h1 {
+    color: blue;
+    text-shadow: black;
+}
+/*
+.a{ 
+    width: 800px;
+    text-align: center;
+    align-items: center;
+    background: #ccc;
+    margin: 0 auto;
+} */
+
+
